@@ -1,5 +1,5 @@
 Lab work for Coding Café, FM102.
-Name: Your Full Name
+Name: Rithvika Rao Makloor
 Roll number: U20260200
 - lab1/ — terminal
 - lab2/ — variables, types, operations, I/O
